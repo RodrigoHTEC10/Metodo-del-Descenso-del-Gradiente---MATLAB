@@ -1,5 +1,6 @@
 # Método de Descenso del Gradiente
 **Equipo Laplace**
+
 A continuación se adjunta el algoritmo de descenso del gradiente para la busqueda de mínimos locales de una función de dos variables desarrollado para la Situación Problema 'Redes Neuronales y Ecuaciones Diferenciales' de la materia MA1033 en el lenguaje de programación MATLAB.
 
 ## Secciones Programa
